@@ -35,5 +35,7 @@
  [Project 5](/New%20Project4.mp4)
  
  [Project 6](/intro2.mp4)
+ 
+ ![MarineGEO circle logo](/20211003_234052_0000.png)
 
 
