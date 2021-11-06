@@ -38,7 +38,7 @@
  
  [Project 6](/intro2.mp4)
  
- #RecentApp(Driving Class Booking App)
+ #RecentApps
  
  ![1](/20211003_234052_0000.png)
  
